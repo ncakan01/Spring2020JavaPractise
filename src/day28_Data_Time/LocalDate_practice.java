@@ -17,6 +17,16 @@ public class LocalDate_practice {
 
             System.out.println(name +"'s birthday is "+bd);
 
+
+              /*
+        int a = 100;
+        int b = 200;
+        int c = 300;
+        int[] array1 = {a, b, c};
+         */
+
+
+
         }
 
     }
