@@ -1,6 +1,6 @@
 package day21_MultiDimensionalArrays;
 
-public class StringMethod {
+public class Quiz {
     public static void main(String[] args) {
         int wd=0;//  -1 1 2 2 -1
         String[] days = {"sun", "mon","wed","sat"};
