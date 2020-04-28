@@ -21,6 +21,7 @@ public class WhileLoop {
         System.out.println("===========================================");
         while (true){
             System.out.println("hello word");
+
         }
     }
 }
