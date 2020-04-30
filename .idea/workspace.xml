@@ -2,90 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a450409e-b2b6-4368-9d33-06590a506637" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours/Practice_04_29_2020/ArrayList_Metods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Qpractice/Replit72.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Qpractice/Replit75.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Qpractice/reolit104.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Qpractice/replit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Qpractice/replit154.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Qpractice/replit176.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Qpractice/replit178.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Qpractice/replit83.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Qpractice/replit86.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Qpractice/replit91.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Qpractice/replit99.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day17_WhileLoops/Fruquency.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day21_MultiDimensionalArrays/AverageNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day21_MultiDimensionalArrays/DeepToString.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day21_MultiDimensionalArrays/Emails.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day21_MultiDimensionalArrays/ForEachLoop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day21_MultiDimensionalArrays/Formatting_Decimal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day21_MultiDimensionalArrays/Logest_Shortest_Words.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day21_MultiDimensionalArrays/Multi_DimensionalArrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day21_MultiDimensionalArrays/Quiz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day21_MultiDimensionalArrays/ScrumTeam.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day21_MultiDimensionalArrays/StringMetods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day21_MultiDimensionalArrays/Zoo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day27_DataTime/Dates.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day27_DataTime/Dates_Formatting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day27_DataTime/find_Minimum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day27_DataTime/unique_Arrays.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day28_Data_Time/Birthday.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day28_Data_Time/DateTime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day28_Data_Time/DateTime_Formating.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day28_Data_Time/LocalDate_practice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day28_Data_Time/Time.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day28_Data_Time/Time_Formating.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day29_Wrapper_Arraylist/Auto_Unboxing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day29_Wrapper_Arraylist/List_Intro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day29_Wrapper_Arraylist/List_Practice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day29_Wrapper_Arraylist/List_Practice2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day29_Wrapper_Arraylist/ParseMetods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day29_Wrapper_Arraylist/ValueOfMethods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day29_Wrapper_Arraylist/WrapperClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day29_Wrapper_Arraylist/WrapperClass_Practice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day30_ArrayList/ArrayList_Mehods2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day30_ArrayList/ArrayList_Metods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day30_ArrayList/ArrayList_reversed.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day30_ArrayList/CombineTwoArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day30_ArrayList/SumOfDigits.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day30_ArrayList/Uniques.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_29_2020/ArrayList_Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_04_29_2020/ArrayList_Metods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Qpractice/replit154.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Qpractice/replit176.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Qpractice/replit178.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Qpractice/replit90.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Qpractice/replit99.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperation/ArraysListMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperation/Bulk_ContainAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperation/Bulk_addALL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperation/Bulk_removeAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperation/Bulk_retainAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31_BulkOperation/RemoveDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/OfficeHours/x.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Qpractice/replit73.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Qpractice/replit73.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Resources/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/Resources/Library.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day16_ForLoop/PalindromeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day16_ForLoop/PalindromeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day17_WhileLoops/PalindromeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day17_WhileLoops/PalindromeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day21_MultiDimensionalArrays/StringMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day26_MethodOverloading/Uniques.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day26_MethodOverloading/Uniques.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/x.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/x.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OfficeHours/x.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Qpractice/Replit72.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Qpractice/Replit72.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Qpractice/Replit75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Qpractice/Replit75.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Qpractice/reolit104.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Qpractice/reolit104.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Qpractice/replit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Qpractice/replit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Qpractice/replit83.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Qpractice/replit83.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Qpractice/replit86.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Qpractice/replit86.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Qpractice/replit91.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Qpractice/replit91.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resources/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day16_ForLoop/PalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day16_ForLoop/PalindromeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day26_MethodOverloading/Uniques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_MethodOverloading/Uniques.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Mehods2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Mehods2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Metods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Metods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_reversed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_reversed.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day30_ArrayList/CombineTwoArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_ArrayList/CombineTwoArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day30_ArrayList/SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_ArrayList/SumOfDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day30_ArrayList/Uniques.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_ArrayList/Uniques.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/x.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/x.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day31_BulkOperation/ArraysListMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day31_BulkOperation/ArraysListMethods.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day31_BulkOperation/ArraysListMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day31_BulkOperation/ArraysListMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,20 +51,7 @@
       <recent name="Qpractice" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArraysListMethods">
-    <configuration name="ArrayList_Metods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OfficeHours.Practice_04_29_2020.ArrayList_Metods" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="OfficeHours.Practice_04_29_2020.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Bulk_retainAll">
     <configuration name="ArraysListMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day31_BulkOperation.ArraysListMethods" />
       <module name="Spring2020B18_Java" />
@@ -154,12 +65,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="replit154" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Qpractice.replit154" />
+    <configuration name="Bulk_ContainAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_BulkOperation.Bulk_ContainAll" />
       <module name="Spring2020B18_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Qpractice.*" />
+          <option name="PATTERN" value="day31_BulkOperation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bulk_removeAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_BulkOperation.Bulk_removeAll" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day31_BulkOperation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bulk_retainAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31_BulkOperation.Bulk_retainAll" />
+      <module name="Spring2020B18_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day31_BulkOperation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="replit99" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Qpractice.replit99" />
-      <module name="Spring2020B18_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Qpractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bulk_retainAll" />
+        <item itemvalue="Application.Bulk_removeAll" />
+        <item itemvalue="Application.Bulk_ContainAll" />
         <item itemvalue="Application.ArraysListMethods" />
         <item itemvalue="Application.replit90" />
-        <item itemvalue="Application.ArrayList_Metods" />
-        <item itemvalue="Application.replit99" />
-        <item itemvalue="Application.replit154" />
       </list>
     </recent_temporary>
   </component>
@@ -236,12 +160,12 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="206" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/1440.136.1920.1080@0.0.1440.900" timestamp="1587156141057" />
-    <state x="365" y="29" key="CommitChangelistDialog2" timestamp="1588105236599">
-      <screen x="0" y="23" width="1440" height="798" />
+    <state x="365" y="29" key="CommitChangelistDialog2" timestamp="1588266968414">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="365" y="29" key="CommitChangelistDialog2/0.23.1440.798/1440.115.1920.1057@0.23.1440.798" timestamp="1588105236598" />
-    <state x="365" y="29" key="CommitChangelistDialog2/0.23.1440.801/1440.115.1920.1057@0.23.1440.801" timestamp="1587935954877" />
-    <state width="1398" height="169" key="GridCell.Tab.0.bottom" timestamp="1588257566773">
+    <state x="365" y="29" key="CommitChangelistDialog2/0.23.1440.801/1440.115.1920.1057@0.23.1440.801" timestamp="1588266968414" />
+    <state width="1398" height="169" key="GridCell.Tab.0.bottom" timestamp="1588266968468">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1398" height="237" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.136.1920.1080@0.0.1440.900" timestamp="1587604929005" />
@@ -253,7 +177,7 @@
     <state width="1398" height="122" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1587700352223" />
     <state width="1398" height="169" key="GridCell.Tab.0.bottom/0.23.1440.798/1440.115.1920.1057@0.23.1440.798" timestamp="1588219849067" />
     <state width="1196" height="122" key="GridCell.Tab.0.bottom/0.23.1440.798@0.23.1440.798" timestamp="1587707068037" />
-    <state width="1398" height="169" key="GridCell.Tab.0.bottom/0.23.1440.801/1440.115.1920.1057@0.23.1440.801" timestamp="1588257566773" />
+    <state width="1398" height="169" key="GridCell.Tab.0.bottom/0.23.1440.801/1440.115.1920.1057@0.23.1440.801" timestamp="1588266968468" />
     <state width="1398" height="123" key="GridCell.Tab.0.bottom/0.23.1440.801/1440.115.1920.1057@1440.115.1920.1057" timestamp="1587659263823" />
     <state width="1196" height="122" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1587704843300" />
     <state width="1398" height="168" key="GridCell.Tab.0.bottom/0.23.1440.804/1440.115.1920.1057@0.23.1440.804" timestamp="1588182104966" />
@@ -274,7 +198,7 @@
     <state width="1398" height="136" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.159.1920.978@0.23.1440.877" timestamp="1587261070766" />
     <state width="1398" height="132" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.159.1920.980@0.23.1440.877" timestamp="1586929045447" />
     <state width="1398" height="132" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.159.1920.982@0.23.1440.877" timestamp="1586999348169" />
-    <state width="1398" height="169" key="GridCell.Tab.0.center" timestamp="1588257566772">
+    <state width="1398" height="169" key="GridCell.Tab.0.center" timestamp="1588266968467">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1398" height="237" key="GridCell.Tab.0.center/0.0.1440.900/1440.136.1920.1080@0.0.1440.900" timestamp="1587604929001" />
@@ -286,7 +210,7 @@
     <state width="1398" height="122" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1587700352222" />
     <state width="1398" height="169" key="GridCell.Tab.0.center/0.23.1440.798/1440.115.1920.1057@0.23.1440.798" timestamp="1588219849065" />
     <state width="1196" height="122" key="GridCell.Tab.0.center/0.23.1440.798@0.23.1440.798" timestamp="1587707068036" />
-    <state width="1398" height="169" key="GridCell.Tab.0.center/0.23.1440.801/1440.115.1920.1057@0.23.1440.801" timestamp="1588257566772" />
+    <state width="1398" height="169" key="GridCell.Tab.0.center/0.23.1440.801/1440.115.1920.1057@0.23.1440.801" timestamp="1588266968467" />
     <state width="1398" height="123" key="GridCell.Tab.0.center/0.23.1440.801/1440.115.1920.1057@1440.115.1920.1057" timestamp="1587659263823" />
     <state width="1196" height="122" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1587704843298" />
     <state width="1398" height="168" key="GridCell.Tab.0.center/0.23.1440.804/1440.115.1920.1057@0.23.1440.804" timestamp="1588182104966" />
@@ -307,7 +231,7 @@
     <state width="1398" height="136" key="GridCell.Tab.0.center/0.23.1440.877/1440.159.1920.978@0.23.1440.877" timestamp="1587261070763" />
     <state width="1398" height="132" key="GridCell.Tab.0.center/0.23.1440.877/1440.159.1920.980@0.23.1440.877" timestamp="1586929045445" />
     <state width="1398" height="132" key="GridCell.Tab.0.center/0.23.1440.877/1440.159.1920.982@0.23.1440.877" timestamp="1586999348167" />
-    <state width="1398" height="169" key="GridCell.Tab.0.left" timestamp="1588257566771">
+    <state width="1398" height="169" key="GridCell.Tab.0.left" timestamp="1588266968466">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1398" height="237" key="GridCell.Tab.0.left/0.0.1440.900/1440.136.1920.1080@0.0.1440.900" timestamp="1587604928999" />
@@ -319,7 +243,7 @@
     <state width="1398" height="122" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1587700352221" />
     <state width="1398" height="169" key="GridCell.Tab.0.left/0.23.1440.798/1440.115.1920.1057@0.23.1440.798" timestamp="1588219849064" />
     <state width="1196" height="122" key="GridCell.Tab.0.left/0.23.1440.798@0.23.1440.798" timestamp="1587707068035" />
-    <state width="1398" height="169" key="GridCell.Tab.0.left/0.23.1440.801/1440.115.1920.1057@0.23.1440.801" timestamp="1588257566771" />
+    <state width="1398" height="169" key="GridCell.Tab.0.left/0.23.1440.801/1440.115.1920.1057@0.23.1440.801" timestamp="1588266968466" />
     <state width="1398" height="123" key="GridCell.Tab.0.left/0.23.1440.801/1440.115.1920.1057@1440.115.1920.1057" timestamp="1587659263822" />
     <state width="1196" height="122" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1587704843298" />
     <state width="1398" height="168" key="GridCell.Tab.0.left/0.23.1440.804/1440.115.1920.1057@0.23.1440.804" timestamp="1588182104965" />
@@ -340,7 +264,7 @@
     <state width="1398" height="136" key="GridCell.Tab.0.left/0.23.1440.877/1440.159.1920.978@0.23.1440.877" timestamp="1587261070763" />
     <state width="1398" height="132" key="GridCell.Tab.0.left/0.23.1440.877/1440.159.1920.980@0.23.1440.877" timestamp="1586929045444" />
     <state width="1398" height="132" key="GridCell.Tab.0.left/0.23.1440.877/1440.159.1920.982@0.23.1440.877" timestamp="1586999348167" />
-    <state width="1398" height="169" key="GridCell.Tab.0.right" timestamp="1588257566772">
+    <state width="1398" height="169" key="GridCell.Tab.0.right" timestamp="1588266968468">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state width="1398" height="237" key="GridCell.Tab.0.right/0.0.1440.900/1440.136.1920.1080@0.0.1440.900" timestamp="1587604929003" />
@@ -352,7 +276,7 @@
     <state width="1398" height="122" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1587700352223" />
     <state width="1398" height="169" key="GridCell.Tab.0.right/0.23.1440.798/1440.115.1920.1057@0.23.1440.798" timestamp="1588219849066" />
     <state width="1196" height="122" key="GridCell.Tab.0.right/0.23.1440.798@0.23.1440.798" timestamp="1587707068036" />
-    <state width="1398" height="169" key="GridCell.Tab.0.right/0.23.1440.801/1440.115.1920.1057@0.23.1440.801" timestamp="1588257566772" />
+    <state width="1398" height="169" key="GridCell.Tab.0.right/0.23.1440.801/1440.115.1920.1057@0.23.1440.801" timestamp="1588266968468" />
     <state width="1398" height="123" key="GridCell.Tab.0.right/0.23.1440.801/1440.115.1920.1057@1440.115.1920.1057" timestamp="1587659263823" />
     <state width="1196" height="122" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1587704843299" />
     <state width="1398" height="168" key="GridCell.Tab.0.right/0.23.1440.804/1440.115.1920.1057@0.23.1440.804" timestamp="1588182104966" />
