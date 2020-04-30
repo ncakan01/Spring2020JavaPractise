@@ -16,8 +16,9 @@ public class PalindromeTest {
         }
         boolean palindrome=word.equals(reverseWord);
 
-        System.out.println(reverseWord);
+        System.out.println(palindrome);
 
 
     }
+
 }
