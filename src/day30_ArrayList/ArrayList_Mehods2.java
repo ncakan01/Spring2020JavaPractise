@@ -37,7 +37,7 @@ public class ArrayList_Mehods2 {
         int num1 =list2.indexOf(1);   // 0
         // integer = int    // Aotoboxing
 
-        int num2=list2.indexOf(100);
+        int num2=list2.indexOf(1);
         System.out.println(list2);
         System.out.println(num1);
         System.out.println(num2);
