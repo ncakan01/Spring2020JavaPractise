@@ -2,228 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a450409e-b2b6-4368-9d33-06590a506637" name="Default Changelist" comment="Day 31 Class">
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/BankOfAzerbaijan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/HumanResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/Offer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/SalaryCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/myOffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWork/pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/AppleINC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/DeveloperObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_06_2020/InstanceVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_13_2020/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_13_2020/Constructor_Overload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_13_2020/InstanceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_13_2020/Instances.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_13_2020/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_13_2020/staticBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_13_2020/statics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_20_2020/Bunny.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_20_2020/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_20_2020/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_20_2020/Constructor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_20_2020/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_20_2020/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_20_2020/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_20_2020/SuperKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_20_2020/SuperKeyword2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_27_2020/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_27_2020/methodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Practice_05_27_2020/methodOverriding2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/ScrumTeam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OfficeHours/TesterObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Qpractice/Assement2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Qpractice/CandStment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Qpractice/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Qpractice/ebobekok.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Qpractice/reolit101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Qpractice/replit103.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Qpractice/replit109.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Qpractice/replit119.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Qpractice/replit151.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Qpractice/replit186.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Qpractice/replit189.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Qpractice/replit194.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Resources/AccessModifier_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Resources/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Resources/Inheritance2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/CollectionsMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/Duplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/Duplicates2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/Lambda_Expressions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/MoveZero2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/MoveZeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day32_Predicate/Uniques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/CapitalOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/ExtractChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/ExtractChars2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/ExtractChars3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/Uniques.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/carObject2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/carObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day33_CustomClass/catObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/BankOfAmerica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/CapitalOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Carpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/CarpetObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/DogObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/DogObject2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/ObjectMemory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/ScrumTeam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/StudentObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/Offer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/OfferObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/StudentObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticPractice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day35_Static/staticVariables2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_StatickBlock/CapitalOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_StatickBlock/HumanResource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_StatickBlock/MultiClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_StatickBlock/StaticBlock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_StatickBlock/StaticBlock2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_StatickBlock/StaticBlock3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_StatickBlock/StaticBlock4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day36_StatickBlock/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/BankOfAzerbaycan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/CarObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/ConctructorIntro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/CybertekStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/HumanResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/ImportStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day37_Constructors/StudentObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/CircleObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/ConstructorCalls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/ConstructorCalls2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/ConstructorCalls3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/ConstructorPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/EmoloyeeSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/Item.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/SalaryCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/ShoppingList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day38_Constructors/dogObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifier/AccessModifiers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifier/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifier/CarObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifier/CheckInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifier/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifier/EmployeeObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifier/PersonalInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifier/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/BankOfAmerika.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/CredentialObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Credentials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/EmployeeInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Encapsulation_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/NestedClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/PersonObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Quiz_Question12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/AudioBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/BankOfAmerica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/BooksObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Ebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Fish.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/BusinessAnalyst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/Developer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/EmloyeeObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task01/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task02/AccountObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task02/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task02/SavingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Task02/checkingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Accessmodifires.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Constructor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/InheritanceReveiw.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/SuperKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task01/Company.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task01/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task01/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task01/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task01/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task02/Device.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task02/DeviceObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task02/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task02/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/TestData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/TestData2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/MethodOveloding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/MethodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/ShapeObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Exception/CheckException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Exception/ExceptionHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Exception/ExceptionPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Exception/Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Exception/Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Exception/Unchecked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Exception/finally_Block.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Exception/multi_catchBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Exception/try_catchBlocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day44_Exception/try_catchBlocks2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Exceptions/CustomException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Exceptions/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Exceptions/ThrowKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Exceptions/ThrowKeyword2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Exceptions/ThrowsKeyword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Exceptions/ThrowsKeyword2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Exceptions/ThrowsKeyword3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Exceptions/warmUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_final_abstract/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_final_abstract/Quiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_final_abstract/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_final_abstract/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_final_abstract/ShapeObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_final_abstract/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_final_abstract/credentials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_final_abstract/final_Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_final_abstract/final_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_final_abstract/final_Variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_final_abstract/final_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_final_abstract/final_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day46_final_abstract/final_method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_Abstraction/ChromeDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_Abstraction/RemoveWebDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day47_Abstraction/driverObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day21_MultiDimensionalArrays/ScrumTeam.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day21_MultiDimensionalArrays/ScrumTeam.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day30_ArrayList/ArrayList_Mehods2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B18_Java/day30_ArrayList/ArrayList_Mehods2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day21_MultiDimensionalArrays/ScrumTeam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day21_MultiDimensionalArrays/ScrumTeam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Mehods2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_ArrayList/ArrayList_Mehods2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -388,13 +170,13 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="426" y="96" key="#Timer/0.23.1440.877/1440.115.1920.978@0.23.1440.877" timestamp="1591073090076" />
-    <state x="533" y="158" key="#com.intellij.ide.util.MemberChooser" timestamp="1591069263009">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="533" y="146" key="#com.intellij.ide.util.MemberChooser" timestamp="1591284744789">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="533" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/1440.92.1920.1080@0.0.1440.900" timestamp="1589571736754" />
     <state x="533" y="146" key="#com.intellij.ide.util.MemberChooser/0.23.1440.797/1440.115.1920.1057@0.23.1440.797" timestamp="1589567868497" />
     <state x="533" y="146" key="#com.intellij.ide.util.MemberChooser/0.23.1440.798/1440.115.1920.1057@0.23.1440.798" timestamp="1590071951220" />
-    <state x="533" y="146" key="#com.intellij.ide.util.MemberChooser/0.23.1440.801/1440.115.1920.1057@0.23.1440.801" timestamp="1589903097498" />
+    <state x="533" y="146" key="#com.intellij.ide.util.MemberChooser/0.23.1440.801/1440.115.1920.1057@0.23.1440.801" timestamp="1591284744789" />
     <state x="533" y="147" key="#com.intellij.ide.util.MemberChooser/0.23.1440.806/1440.115.1920.1057@0.23.1440.806" timestamp="1590888806144" />
     <state x="533" y="148" key="#com.intellij.ide.util.MemberChooser/0.23.1440.814/1440.115.1920.1057@0.23.1440.814" timestamp="1591056362309" />
     <state x="533" y="148" key="#com.intellij.ide.util.MemberChooser/0.23.1440.816/1440.115.1920.1057@0.23.1440.816" timestamp="1591026916122" />
@@ -648,8 +430,8 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="100" y="123" width="1240" height="598" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.23.1440.877/1440.115.1920.978@0.23.1440.877" timestamp="1591073079615" />
-    <state x="393" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1590761010750">
-      <screen x="0" y="23" width="1440" height="798" />
+    <state x="1964" y="401" key="com.intellij.ide.util.TipDialog" timestamp="1591329445258">
+      <screen x="1440" y="115" width="1920" height="977" />
     </state>
     <state x="393" y="264" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.136.1920.1080@0.0.1440.900" timestamp="1587603619667" />
     <state x="393" y="272" key="com.intellij.ide.util.TipDialog/0.0.1440.900/1440.92.1920.1080@0.0.1440.900" timestamp="1589604466684" />
@@ -666,6 +448,7 @@
     <state x="1964" y="470" key="com.intellij.ide.util.TipDialog/0.23.1440.821/1440.159.1920.1057@1440.159.1920.1057" timestamp="1586268288794" />
     <state x="393" y="280" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.115.1920.1057@0.23.1440.877" timestamp="1589048169515" />
     <state x="393" y="280" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.115.1920.977@0.23.1440.877" timestamp="1590546054840" />
+    <state x="1964" y="401" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.115.1920.977@1440.115.1920.977" timestamp="1591329445258" />
     <state x="393" y="280" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.159.1920.978@0.23.1440.877" timestamp="1586714277992" />
     <state x="1964" y="448" key="com.intellij.ide.util.TipDialog/0.23.1440.877/1440.159.1920.984@1440.159.1920.984" timestamp="1587172255110" />
     <state x="388" y="68" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1588693695705">
